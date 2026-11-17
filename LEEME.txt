@@ -1,0 +1,9 @@
+Estructura:
+
+  vercel.json
+  public/
+    index.html
+    favicon.svg, og.jpg, robots.txt, sitemap.xml, 404.html
+    img/   (las 6 fotos .webp)
+
+Subí la carpeta completa tal cual (con public e img adentro). En Vercel dejá el Root Directory vacío o en la carpeta donde está vercel.json.
