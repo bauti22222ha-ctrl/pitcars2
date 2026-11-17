@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://TU-DOMINIO.com.ar/sitemap.xml
+ 
+Sitemap: https://pitcarsracing.com/sitemap.xml
+ 
